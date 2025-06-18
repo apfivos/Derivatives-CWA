@@ -47,3 +47,6 @@ python main.py
 ---
 
 ## ©️ Author
+
+Apollon Foivos Bakis — MSc Quantitative Finance  
+University of Manchester  
